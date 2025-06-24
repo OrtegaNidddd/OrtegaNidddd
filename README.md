@@ -10,9 +10,8 @@
 ## 🛠 Skills
 •Techstack: `Javascript`, `Angular`, `TailwindCSS`, `NodeJS`, `TypeScript`, `CSS`
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrtegaNidddd&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrtegaNidddd&hide_progress=true)
 
 ## GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OrtegaNidddd&theme=dracula&mode=weekly)](https://git.io/streak-stats)
+![Nick GitHub stats](https://github-readme-stats.vercel.app/api?username=OrtegaNidddd&show_icons=true&theme=tokyonight)
