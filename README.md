@@ -5,8 +5,6 @@
 
 • I'm currently learning Angular, TypeScript & Tailwind.
 
-• Founder of [NeroBakery](https://www.instagram.com/bakery_nero/?e=689d25ca-0880-4699-80fc-299920e8997c&g=5)
-
 ## 🛠 Skills
 • Techstack: `Javascript`, `Angular`, `TailwindCSS`, `NodeJS`, `TypeScript`, `CSS`
 
