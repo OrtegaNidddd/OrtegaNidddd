@@ -6,7 +6,8 @@
 • I'm currently learning React.
 
 ## 🛠 Skills
-• Techstack: `TailwindCSS`, `Javascript`, `React`, `MySQL`, `NodeJS`,  `PostgreSQL`, `PHP`, `Laravel`
+• Techstack: `TailwindCSS`, `Javascript`, `React`, `MySQL`, `NodeJS`,  `PostgreSQL`, `PHP`, `Laravel`.
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrtegaNidddd&hide_progress=true)
 
 ## GitHub Stats
