@@ -109,7 +109,7 @@
 
 <br>
 
-<a href="mailto:orteganid@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=orteganid@gmail.com&su=Hola%20nick,%20quiero%20hablar%20contigo&body=Escribe%20tu%20mensaje%20aqui" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 
