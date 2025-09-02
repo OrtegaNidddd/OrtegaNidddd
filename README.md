@@ -119,7 +119,7 @@
 <div align='center'>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FFD700&size=25&center=true&vCenter=true&width=1000&height=140&multiline=true&repeat=true&lines=Te+has+comunicado+con+el+telefono+de+Hector+%22El+Father%22;En+este+momento+me+encuentro+trabajando+el+disco+de+los+Rompe+Discotekas;Deja+un+corto+mensaje+y+tan+pronto+pueda+te+devuelvo+la+llamada;Que+Dios+te+multiplique+lo+que+me+deseas.">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FFD700&size=25&center=true&vCenter=true&width=1000&height=140&multiline=true&repeat=true&lines=Soy+la+evoluci%C3%B3n,+la+revoluci%C3%B3n;The+Big-Big+Boss;El+mejor+de+todos+los+tiempos,+ya+t%C3%BA+lo+sabes;Ando+con+el+Music%C3%B3logo+montando+presi%C3%B3n;Con+Menes+y+Talento+De+Barrio,+el+poder;The+Big+Boss;Oh,+oh+·+Eh,+eh+·+Oh,+oh">
     </a>
 </p>
 </div>
