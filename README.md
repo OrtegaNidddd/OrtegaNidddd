@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Hi , I'm Nick Ortega </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FFD700&size=25&center=true&vCenter=true&width=1000&height=80&lines=dreaming+is+the+first+step,+making+it+happend+is+the+second.&hearts;++;Self-taught+Front-End+Developer+Jr,;Software+Engineering+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs...<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=blue&size=25&center=true&vCenter=true&width=1000&height=80&lines=dreaming+is+the+first+step,+making+it+happend+is+the+second.&hearts;++;Self-taught+Front-End+Developer+Jr,;Software+Engineering+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs...<3"></a>
 </p>
 
 ## **About me**
@@ -123,7 +123,7 @@
 <div align='center'>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FFD700&size=25&center=true&vCenter=true&width=1000&height=200&multiline=true&repeat=true&lines=Soy+la+evoluci%C3%B3n,+la+revoluci%C3%B3n;The+Big-Big+Boss;El+mejor+de+todos+los+tiempos,+ya+t%C3%BA+lo+sabes;Ando+con+el+Music%C3%B3logo+montando+presi%C3%B3n;Con+Menes+y+Talento+De+Barrio,+el+poder;The+Big+Boss;Oh,+oh+·+Eh,+eh+·+Oh,+oh">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=blue&size=25&center=true&vCenter=true&width=1000&height=200&multiline=true&repeat=true&lines=Soy+la+evoluci%C3%B3n,+la+revoluci%C3%B3n;The+Big-Big+Boss;El+mejor+de+todos+los+tiempos,+ya+t%C3%BA+lo+sabes;Ando+con+el+Music%C3%B3logo+montando+presi%C3%B3n;Con+Menes+y+Talento+De+Barrio,+el+poder;The+Big+Boss;Oh,+oh+·+Eh,+eh+·+Oh,+oh">
     </a>
 </p>
 </div>
