@@ -1,7 +1,10 @@
 
-<h1 align="center"><b>Hi , I'm Nick Ortega </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=43c5ef&height=200&section=header&text=Nick%20Ortega&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20Jr%20&descAlignY=60&descAlign=50" width="100%"/>
+</div>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=blue&size=25&center=true&vCenter=true&width=1000&height=80&lines=dreaming+is+the+first+step,+making+it+happend+is+the+second.&hearts;++;Self-taught+Front-End+Developer+Jr,;Software+Engineering+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs...<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%43c5ef&size=25&center=true&vCenter=true&width=1000&height=180&&multiline=true&repeat=true&lines=dreaming+is+the+first+step,+making+it+happend+is+the+second.&hearts;++;Self-taught+Full+Stack+Developer+Jr,;Software+Engineering+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs...<3"></a>
 </p>
 
 ## **About me**
@@ -25,45 +28,40 @@
 
 <div align="left">
 
-**Languages**:
+**Front-End Development**:
 <br>
-    ![Java](https://img.shields.io/badge/Java%20-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
- 
 **Back-End Development**:
 <br>
    ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
    ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
    ![EJS](https://img.shields.io/badge/EJS-8A2BE2?style=for-the-badge&logo=ejs&logoColor=white)
-
-
-**Front-End Development**:
-<br>
-  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![TAILWINDCSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-  ![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-
+   ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 **Databases**:
 <br>
 	![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 	![POSTGRESQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
  
+**Languages**:
+<br>
+    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 	
 **API Testing**:
 <br>
    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-**Softwares and Tools**:
+**Tools**:
 <br>
    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+   ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-**Gestión de Proyectos y Tareas**
+**Project & Task Management**
 
 <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
 
@@ -122,9 +120,15 @@
 
 <div align='center'>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=blue&size=25&center=true&vCenter=true&width=1000&height=200&multiline=true&repeat=true&lines=Soy+la+evoluci%C3%B3n,+la+revoluci%C3%B3n;The+Big-Big+Boss;El+mejor+de+todos+los+tiempos,+ya+t%C3%BA+lo+sabes;Ando+con+el+Music%C3%B3logo+montando+presi%C3%B3n;Con+Menes+y+Talento+De+Barrio,+el+poder;The+Big+Boss;Oh,+oh+·+Eh,+eh+·+Oh,+oh">
-    </a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%43c5ef&size=25&center=true&vCenter=true&width=1000&height=180&multiline=true&repeat=true&lines=Te+has+comunicado+con+el+tel%C3%A9fono+de+Hector+%22El+Father%22;En+este+momento+me+encuentro+trabajando+el+disco+de+los+Rompe+Discotekas;Deja+un+corto+mensaje+y+tan+pronto+pueda+te+devuelvo+la+llamada;Que+Dios+te+multiplique+lo+que+me+deseas.">
+</a>
 </p>
 </div>
+
+## Trofeos de GitHub
+<br>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OrtegaNidddd&theme=juicyfresh&no-frame=true&row=1&column=7&margin-w=15" alt="Trofeos de GitHub" />
+</p>
 
