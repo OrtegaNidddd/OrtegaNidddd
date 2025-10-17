@@ -20,7 +20,7 @@
 - 🤝 Responsible, committed, and always willing to collaborate
 - 🔥 Passionate about what I do, always giving 100%
 
-![ortegadev.site](https://ortegadev.site/)
+[ortegadev.site](https://ortegadev.site/)
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
