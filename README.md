@@ -13,13 +13,14 @@
 
 <br>
 
-- 🎓 Software Engineering Student and Pastry Chef
-- 💻 Currently learning Web Development (Node.js, Express, and soon React)
+- 🎓 Software Engineering Student
+- 💻 Currently learning Web Development (Larave & Vue)
 - 📚 Interested in Cybersecurity
 - 🕒 Agile and efficient work, without sacrificing quality
 - 🤝 Responsible, committed, and always willing to collaborate
 - 🔥 Passionate about what I do, always giving 100%
-  
+
+![ortegadev.site](https://ortegadev.site/)
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
