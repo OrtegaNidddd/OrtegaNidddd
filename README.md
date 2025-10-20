@@ -14,7 +14,7 @@
 <br>
 
 - 🎓 Software Engineering Student
-- 💻 Currently learning Web Development (Larave & Vue)
+- 💻 Currently learning Web Development (Laravel & Vue)
 - 📚 Interested in Cybersecurity
 - 🕒 Agile and efficient work, without sacrificing quality
 - 🤝 Responsible, committed, and always willing to collaborate
