@@ -1,136 +1,145 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=Nick%20Ortega&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20Jr%20|%20Software%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=43c5ef&height=200&section=header&text=Nick%20Ortega&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20Jr%20&descAlignY=60&descAlign=50" width="100%"/>
-</div>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%43c5ef&size=25&center=true&vCenter=true&width=1000&height=180&&multiline=true&repeat=true&lines=dreaming+is+the+first+step,+making+it+happend+is+the+second.&hearts;++;Self-taught+Full+Stack+Developer+Jr,;Software+Engineering+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs...<3"></a>
-</p>
-
-## **About me**
-
-<picture> <img align="right" src="https://media.tenor.com/f3gYMgbPfEQAAAAi/dansi-cat-dance.gif" width = 250px></picture>
-
-<br>
-
-- 🎓 Software Engineering Student
-- 💻 Currently learning Web Development (Laravel & Vue)
-- 📚 Interested in Cybersecurity
-- 🕒 Agile and efficient work, without sacrificing quality
-- 🤝 Responsible, committed, and always willing to collaborate
-- 🔥 Passionate about what I do, always giving 100%
-
-[ortegadev.site](https://ortegadev.site/)
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-
-<div align="left">
-
-**Front-End Development**:
-<br>
-  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Back-End Development**:
-<br>
-   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-   ![EJS](https://img.shields.io/badge/EJS-8A2BE2?style=for-the-badge&logo=ejs&logoColor=white)
-   ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-
-**Databases**:
-<br>
-	![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-	![POSTGRESQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
- 
-**Languages**:
-<br>
-    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-	
-**API Testing**:
-<br>
-   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
-**Tools**:
-<br>
-   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-   ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-**Project & Task Management**
-
-<img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=43C5EF&center=true&vCenter=true&random=false&width=800&lines=Dreaming+is+the+first+step+%E2%9D%A4%EF%B8%8F;Making+it+happen+is+the+second+%F0%9F%9A%80;Self-taught+Full+Stack+Developer;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ortegadev.site/)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nick._.ortega/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:orteganid@gmail.com)
+  ![Profile Views](https://komarev.com/ghpvc/?username=OrtegaNidddd&style=for-the-badge&color=43c5ef)
+
+</div>
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="40" /> About Me
+
+<img align="right" alt="Dancing Cat" width="250" src="https://media.tenor.com/f3gYMgbPfEQAAAAi/dansi-cat-dance.gif">
+
+```typescript
+const nick = {
+    role: "Full Stack Developer Jr",
+    status: "Software Engineering Student",
+    currentFocus: ["Laravel", "Vue.js", "Cybersecurity"],
+    values: {
+        efficiency: "⚡ Agile and efficient work",
+        quality: "💎 Never sacrificing quality",
+        commitment: "🤝 Responsible and committed",
+        teamwork: "👥 Always willing to collaborate",
+        passion: "🔥 Giving 100% in everything"
+    },
+    learning: "Always exploring new technologies",
+    funFact: "Code is poetry in motion 🎭"
+};
+```
+
+<br clear="right"/>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="35" /> Tech Stack
 
 <div align="center">
 
-<a href="https://github.com/OrtegaNidddd/">
-	
-<h3 align="center">My Statistics:</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=OrtegaNidddd&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-</td>
-<td width="50%" align="center">
+### 💻 Frontend Development
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=OrtegaNidddd&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
+### ⚙️ Backend Development
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
 
-</a>
-</div>
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### 📝 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-## <b align='center'> Let's Connect!</b>
-
-<picture> <img align="left" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTVjbHl5dGtldml5ZjY1MTFhMWlkaGNqYzJkMjFvNjBsMmx3ZW5taiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VpysUTI25mTlK/giphy.gif" width = 250px></picture>
-<br>
-<div align='right'>
-
-<br>
-
-<a href="https://www.instagram.com/nick._.ortega/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-
-<br>
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=orteganid@gmail.com&su=Hola%20nick,%20quiero%20hablar%20contigo&body=Escribe%20tu%20mensaje%20aqui" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
+### 🛠️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<div align='center'>
-<p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%43c5ef&size=25&center=true&vCenter=true&width=1000&height=180&multiline=true&repeat=true&lines=Te+has+comunicado+con+el+tel%C3%A9fono+de+Hector+%22El+Father%22;En+este+momento+me+encuentro+trabajando+el+disco+de+los+Rompe+Discotekas;Deja+un+corto+mensaje+y+tan+pronto+pueda+te+devuelvo+la+llamada;Que+Dios+te+multiplique+lo+que+me+deseas.">
-</a>
-</p>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="35" /> GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OrtegaNidddd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=43c5ef&icon_color=43c5ef&text_color=c9d1d9&count_private=true" alt="Nick's GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=OrtegaNidddd&theme=tokyonight&hide_border=true&background=0D1117&stroke=43c5ef&ring=43c5ef&fire=ff6b6b&currStreakLabel=43c5ef" alt="Nick's GitHub Streak"/>
 </div>
 
-## Trofeos de GitHub
-<br>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OrtegaNidddd&theme=juicyfresh&no-frame=true&row=1&column=7&margin-w=15" alt="Trofeos de GitHub" />
-</p>
+<div align="center">
+  <img width="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=OrtegaNidddd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=43c5ef&text_color=c9d1d9&langs_count=10" alt="Top Languages"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OrtegaNidddd&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=43c5ef&line=43c5ef&point=ffffff" alt="Contribution Graph"/>
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="35" /> GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OrtegaNidddd&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" /> Let's Connect!
+
+<img align="left" alt="Cat Typing" width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTVjbHl5dGtldml5ZjY1MTFhMWlkaGNqYzJkMjFvNjBsMmx3ZW5taiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VpysUTI25mTlK/giphy.gif">
+
+<div align="right">
+
+<br>
+
+### "El código es poesía, cada línea cuenta una historia"
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-43c5ef?style=for-the-badge)](https://ortegadev.site/)
+[![Email](https://img.shields.io/badge/📧_Email-Let's_Talk-D14836?style=for-the-badge)](mailto:orteganid@gmail.com)
+[![Instagram](https://img.shields.io/badge/📸_Instagram-Follow_Me-E4405F?style=for-the-badge)](https://www.instagram.com/nick._.ortega/)
+
+<br>
+
+### ⚡ Currently Available for Opportunities!
+
+</div>
+
+<br clear="left"/>
+
+---
+
+<div align="center">
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=43C5EF&size=25&center=true&vCenter=true&width=1000&height=100&lines=Te+has+comunicado+con+el+tel%C3%A9fono+de+Hector+%22El+Father%22;En+este+momento+me+encuentro+trabajando+el+disco+de+los+Rompe+Discotekas;Deja+un+corto+mensaje+y+tan+pronto+pueda+te+devuelvo+la+llamada;Que+Dios+te+multiplique+lo+que+me+deseas.)](https://git.io/typing-svg)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
+
+</div>
