@@ -83,24 +83,7 @@ const nick = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="35" /> GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OrtegaNidddd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=43c5ef&icon_color=43c5ef&text_color=c9d1d9&count_private=true" alt="Nick's GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com/?user=OrtegaNidddd&theme=tokyonight&hide_border=true&background=0D1117&stroke=43c5ef&ring=43c5ef&fire=ff6b6b&currStreakLabel=43c5ef" alt="Nick's GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=OrtegaNidddd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=43c5ef&text_color=c9d1d9&langs_count=10" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OrtegaNidddd&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=43c5ef&line=43c5ef&point=ffffff" alt="Contribution Graph"/>
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="35" /> GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=OrtegaNidddd&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
