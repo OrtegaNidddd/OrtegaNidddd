@@ -182,11 +182,8 @@ Sincronización automática y detección de conectividad en tiempo real
 
 ---
 
-## 🏆 Trofeos de GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OrtegaNidddd&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trofeos de GitHub"/>
-</div>
+## 🏆 GitHub Card
+![Github Card](https://githubcard.com/OrtegaNidddd.svg?d=AAvEcdS0)
 
 ---
 
