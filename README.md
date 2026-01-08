@@ -130,15 +130,12 @@ Plataforma web profesional para asesoría de seguros, diseñada para optimizar l
 
 ### ✨ Aurum – Jewelry Management System  
 ![Estado](https://img.shields.io/badge/Estado-En_Desarrollo-yellow?style=for-the-badge)
-![Privado](https://img.shields.io/badge/Repositorio-Privado-red?style=for-the-badge&logo=github)
-[![Gist](https://img.shields.io/badge/Gist-GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/OrtegaNidddd/b3677749dca95e35a247fcca2896dc1f)
+[![GitHub](https://img.shields.io/badge/Repositorio-GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OrtegaNidddd/aurum)
 
-Sistema integral para joyerías y talleres artesanales, diseñado para digitalizar y centralizar el proceso completo: solicitudes, cotizaciones, diseño 3D, fabricación, entregas y administración.
+Sistema integral para joyerías y talleres artesanales, diseñado para digitalizar y centralizar el proceso completo: cotizaciones, diseños, fabricación, entregas y administración.
 
 **Módulos principales:**
-- Gestión de pedidos y solicitudes  
-- Módulo de diseño y cotización  
-- Control de fabricación (maestro joyero)  
+- Gestión de pedidos (Diseño, fabricacion, cotizacion, entrega y abonos)
 - Administración de usuarios, roles y permisos  
 - Seguimiento completo del proceso  
 
